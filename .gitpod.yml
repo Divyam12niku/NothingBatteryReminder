@@ -1,0 +1,3 @@
+tasks:
+  - init: ./gradlew build
+    command: ./gradlew assembleDebug
